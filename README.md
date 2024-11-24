@@ -1,4 +1,4 @@
-# Crid for Laravel
+# Crud for Laravel
 
 This package is bunch of basic classes, utilities and interfaces to provide solid Domain oriented CRUD for Laravel application.
 
