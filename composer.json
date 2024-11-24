@@ -1,6 +1,6 @@
 {
     "name": "labrodev/laravel-crud",
-    "description": "Laravel package providing a reusable trait that automatically assigns a document number to Eloquent models upon creation.",
+    "description": "This package is bunch of basic classes, utilities and interfaces to provide solid Domain oriented CRUD for Laravel application.",
     "keywords": [
         "labrodev",
         "laravel",
@@ -19,8 +19,8 @@
     ],
     "support": {
         "email": "admin@labrodev.com",
-        "issues": "https://github.com/labrodev/crud/issues",
-        "source": "https://github.com/labrodev/crud"
+        "issues": "https://github.com/labrodev/laravel-crud/issues",
+        "source": "https://github.com/labrodev/laravel-crud"
     },
     "require": {
         "php": ">=8.1",
